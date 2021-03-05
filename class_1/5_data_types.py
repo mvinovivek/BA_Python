@@ -1,4 +1,4 @@
-#Python supports many datatypes 
+#Python supports many datatypes, some of them are
 
 int_variable = 10
 print(type(int_variable))

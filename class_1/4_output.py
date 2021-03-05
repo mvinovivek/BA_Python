@@ -1,4 +1,4 @@
-#To print the output we can use the print funtion
+#To print the output we can use the print function
 
 print("This is my Output")
 

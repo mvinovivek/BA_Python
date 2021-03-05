@@ -1,4 +1,4 @@
-#In python to get the user input, we need to use the input funtion 
+#In python to get the user input, we need to use the input function 
 
 user_input = input()
 
