@@ -49,3 +49,12 @@ string="hi! how are you?"
 print(string.count(' ')+1)
 
 #Spaces are the delimiters for words. A sentence with four words will have three spaces to it. Now this method will fail if the string has a space at the last!!
+
+#string slicing
+#we can slice a portion of string usign the [] brackets
+string = "hi! how are you?"
+print(string[2])        #Print the value at index 2
+print(string[:3])       #print the values from index 0 to 3 (First four letters)
+print(string[3:8])      #print letters from index 3 to 8
+print(string[:-4])      #print everything except last four
+print(string[-4:])      #print last four letters
