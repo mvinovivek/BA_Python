@@ -1,4 +1,4 @@
-#In case if we want to loop over several lists in one go, or need to access correspodnig 
+#In case if we want to loop over several lists in one go, or need to access corresponding
 #values of any list pairs, we can make use of the range method
 # 
 # range is a method when called will create an array of integers upto the given value

@@ -1,7 +1,7 @@
 #For loop in the python is used to iterate over the items in a list or tuple. 
 #for looping over the items we need to use the in keyword
-#Like any other loops, the for loop also follows the intentation formatting. 
-#Mutliple level of for loops can be created by multiple intentations
+#Like any other loops, the for loop also follows the indentation formatting. 
+#Multiple level of for loops can be created by multiple indentations
 
 #<---------------------------->
 #Simple example

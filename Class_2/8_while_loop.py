@@ -1,6 +1,6 @@
 #while loop as the name suggest, will execute the code till the condition is true. 
 #unlike for loop, while loop depends on the condition than looping over lists
-#for every iteration of the loop, the control varible needs to be manually updated
+#for every iteration of the loop, the control variable needs to be manually updated
 #The user needs to be careful when defining while loop. if the control variable 
 #is not updated properly, then there may be chances of infinite looping
 

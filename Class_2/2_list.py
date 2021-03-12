@@ -24,6 +24,11 @@ print(list_1)
 #**len** will give len of the list 
 print(len(list_1))
 
+#**max** will give maximum value of the list and **min** will give minimum value of the list
+list_1 = [1, 5, 7, 6, 17, 14, 21, 83]
+print("The maximjum value is: {}".format(max(list_1)))
+print("The minimum value is {}".format(min(list_1)))
+
 #**insert** will insert the value at the given index
 list_1 = [1, 5, 7, 6, 17, 14, 21, 83]
 list_1.insert(1, "Inserted")

@@ -1,9 +1,9 @@
 #If statement in python is used to check whether a condition is true of false
 #Based on the results of the conditions, one or other code will be executed. 
-#Unlike other languges, python don't use any brackets to indicate the loop. 
-#python works on indentation formatinng. 
+#Unlike other languages, python don't use any brackets to indicate the loop. 
+#python works on indentation formatting. 
 #the code to be placed inside should have one tab indented inside. 
-#arbitary space/indentation in python will throw  Indentation errors
+#arbitrary space/indentation in python will throw  Indentation errors
 
 #<------------------------------------------------>
 #Simple if condition

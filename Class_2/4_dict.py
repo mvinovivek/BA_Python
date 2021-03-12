@@ -1,6 +1,6 @@
 #dictionaries in python are a unique data type. The data is stored in the form of key value pairs
 #the keys can be of any datatype and the values can also be any datatype
-#dctionaries are useful to group and store relevant data togather
+#dictionaries are useful to group and store relevant data together
 
 employee_1={
     'Emp_Code':'BA1004',
